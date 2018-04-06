@@ -19,7 +19,7 @@
 # FI
 #     
 
-out=/home/zoraw/log
+out=/home/zsingh/log
 echo "################################################################################\n" >> $out
 echo -e "$(who)\n" >> $out
 echo -e "From: $(whoami)@$(cat /etc/hostname)" >> $out
